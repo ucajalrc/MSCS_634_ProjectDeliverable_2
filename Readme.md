@@ -90,7 +90,7 @@ Both models were compared to understand error magnitude and variance explanation
 ## **Task 4 — Cross-Validation**
 
 5-fold cross-validation was performed to test generalization.
-You received the following **real results**:
+This is the following **real results**:
 
 ### **Multiple Linear Regression (5-fold CV)**
 
